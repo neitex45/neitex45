@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @neitex45
-- 👀 I’m interested in Programming & system engineering
-- 🌱 I’m currently Learning how to code in java.
-- 💞️ I’m looking to collaborate on Making organization & Games software
-- 📫 How to reach me using outlook
-- 😄 Pronouns: Chamoy
-- ⚡ Fun fact: I sarted at coding in lua at 2022
+- 👋 Hello everyone
+  I'm interested in Programming & system engineering
+-  I’m currently Learning how to code in C++ Cuz i already know how to code in Java, LOL.
+-  I’m looking to collaborate on software(Only that)
+-  How to reach me using Outlook
+-  Pronouns: Chamoy
+-  Fun fact: I started coding with lua in 2022
 
 <!---
 neitex45/neitex45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
